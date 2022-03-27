@@ -57,3 +57,4 @@ Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan
     <a href="https://www.instagram.com/jnr.jpeg/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 
+ <img src="https://komarev.com/ghpvc/?username=http-jota" alt="http-jota" />
