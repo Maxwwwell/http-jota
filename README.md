@@ -36,8 +36,8 @@ Love to travel, meet new people and i'm a lifestyle photographer. Also a big fan
 
 <div align="center">
   <a href="https://beacons.ai/jotaribeiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=http-jota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-jota&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=http-jota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-jota&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 
